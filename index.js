@@ -526,4 +526,6 @@ if (command == "warn") {
 
 });
 
-bot.login("NjkzNDYzMzE3Nzc1MTIyNDMz.XoHs-Q.Dg803qXP7WxnDltHT6cr7eEdfZ4")
+bot.login("NjkzNDYzMzE3Nzc1MTIyNDMz.XoHs-Q.Dg803qXP7WxnDltHT6cr7eEdfZ4").catch(err => {
+  console.log(err)
+});
