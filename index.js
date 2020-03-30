@@ -526,6 +526,6 @@ if (command == "warn") {
 
 });
 
-bot.login(process.env.TOKEN).catch(err => {
+bot.login(NjkzNDYzMzE3Nzc1MTIyNDMz.XoHs-Q.Dg803qXP7WxnDltHT6cr7eEdfZ4).catch(err => {
   console.log(err)
 });
